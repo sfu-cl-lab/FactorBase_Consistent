@@ -1,5 +1,7 @@
 # FactorBase
 [![Build Status](https://travis-ci.org/sfu-cl-lab/FactorBase.svg?branch=master)](https://travis-ci.org/sfu-cl-lab/FactorBase)   
+This is for Sajjad to try his changes based on his thesis research.
+
 The source code repository for the Factor Base system.  Most of the code are classes for CMU's Tetrad system. We may also add datasets if we get around to it.  
 For more information about this project, visit our [project website](http://www.cs.sfu.ca/~oschulte/BayesBase/BayesBase.html)  
 ##How to Use  
