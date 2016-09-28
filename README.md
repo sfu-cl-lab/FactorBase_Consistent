@@ -2,6 +2,13 @@
 [![Build Status](https://travis-ci.org/sfu-cl-lab/FactorBase.svg?branch=master)](https://travis-ci.org/sfu-cl-lab/FactorBase)   
 This is for Sajjad to try his changes based on his thesis research.
 
+changes by Sajjad:
+
++ In CP.java, added merge sort to compute parentsum. The function name is UpdateParentSum.
++ Added Scores.java. Package for implementing different scores, normalized gain etc. Also uses global score cache. global score cache is used only for these new scores, not for the Tetrad classes.
++ Added global score cache (between different lattice points). Used in edu.cmu.tetrad.search, and the main package (several classes that use global cache).
++ For complete graph, change BayesBaseCDAG (from Zhensong), now uses the new CP.java with the new sort merge.
+
 The source code repository for the Factor Base system.  Most of the code are classes for CMU's Tetrad system. We may also add datasets if we get around to it.  
 For more information about this project, visit our [project website](http://www.cs.sfu.ca/~oschulte/BayesBase/BayesBase.html)  
 ##How to Use  
