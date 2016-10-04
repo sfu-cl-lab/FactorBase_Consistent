@@ -1,6 +1,6 @@
 /*
 *	Sajjad: The only changes I made are: (Sep 30, 2016)
-*		- Adding updateParentSum method which is actually do the merge-sort process
+*		- Adding updateParentSum method which is actually do the sort-merge join process
 *		- Change method local_mult_update a bit to be consistent with the updateParentSum and call it
 *	So the input and output are the same as before. It makes the process of computation faster using sor-merge ;)
 */
