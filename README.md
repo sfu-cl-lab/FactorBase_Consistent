@@ -1,4 +1,4 @@
-# FactorBase
+# FactorBase_Consistent
 [![Build Status](https://travis-ci.org/sfu-cl-lab/FactorBase.svg?branch=master)](https://travis-ci.org/sfu-cl-lab/FactorBase)   
 This is for Sajjad to try his changes based on his thesis research.
 
